@@ -6,7 +6,6 @@ import Source.OnlineLibrary;
 import java.io.IOException;
 
 public class Client {
-    private LibraryFunctions library = new OnlineLibrary();
 
     public static void main(String[] args) throws IOException {
         LibraryFunctions library = new OnlineLibrary();
